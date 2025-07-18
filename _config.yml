@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Rise above. Focus on science."
   location         : "Zhejiang-CN | Singapore"
-  employer         : "NTU"
-  uri              : "https://www.ntu.edu.sg/"
+  employer         : "<a href='https://www.ntu.edu.sg' target='_blank'>NTU</a>"
+  # uri              : ""
   email            : "KEXIN014@e.ntu.edu.sg" 
 
   # Academic websites
