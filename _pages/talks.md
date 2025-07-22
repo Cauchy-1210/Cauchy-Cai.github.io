@@ -5,14 +5,15 @@ author_profile: true
 redirect_from: 
   - /talks/
 ---
-# Activities
+
+# Internship
 ## AI Algorithm Intern | Big Data and AI Applications Department, Geely | 06/2025 – 08/2025  
 - Contributed to GeelyAI, supporting the intelligent and digital transformation of the automotive industry.
 -  Independently developed a speech recognition model for meeting-minutes scenarios, integrating speaker diarization, optimizing concurrency, and reducing CPU utilization by a significant margin; successfully deployed for company-wide internal use.
 -	Implemented an automated processing pipeline for foreign-language technical documents, enabling format conversion and line-by-line recognition with translation.
 -	Assisted in the development of an AI-driven intelligent agent for finance-related applications.
 ## Artificial Intelligence and Machine Learning Programme (Short Course)| Singapore | 02 / 2025 (5 days)
-National University of Singapore (NUS), School of Continuing and Lifelong Education (SCALE) 
+- National University of Singapore (NUS), School of Continuing and Lifelong Education (SCALE) 
 ## Embedded Engineer | Hangzhou Century Link Technology Co., Ltd | China | 07 / 2024 – 08 / 2024
 -	Participate in the process design and engineering conversion of Radio Frequency Identification (RFID) products to ensure full optimisation of the manufacturing process within the workshop.
 -	Develop detailed process engineering documentation including technical drawings, process flow diagrams, and assembly instructions based on best practices in the embedded systems and electronics manufacturing industries.
@@ -24,7 +25,7 @@ National University of Singapore (NUS), School of Continuing and Lifelong Educat
 ## Technician (Intern) | Hicorp Machinery (Qingdao) Co., Ltd | China | 01 / 2024 – 02 / 2024
 -	Maintains the Intelligent Stereo Warehouse storage system, which is an integral part of the company's intelligent warehousing solutions, including racking systems and conveyor systems.
 -	Regular inspections and preventive maintenance of key components of the automated storage and retrieval system, such as conveyor systems, AGV and barcode reading systems, ensure system reliability and uptime.
-======
+
 # Awards
 -	Dean’s Medal (Class of 2025), Zhejiang Gongshang University – Sussex Artificial Intelligence Institute
 -	Third Prize (Engineering Category), Zhejiang Provincial College Students’ Physics Innovation Competition, Dec 2023
