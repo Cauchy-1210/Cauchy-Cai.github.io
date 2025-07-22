@@ -1,12 +1,9 @@
 ---
 layout: archive
 permalink: /teaching/
-title: "Teaching"
+title: "Education"
 author_profile: true
 ---
-
-### Education
-
 **08/2021 – 06/2025**  
 **Bachelor of Engineering in Communication Engineering**  
 *(Chinese-Foreign Cooperatively-Run Education)*  
