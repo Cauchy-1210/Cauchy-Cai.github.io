@@ -16,6 +16,6 @@ University of Sussex, United Kingdom | Zhejiang Gongshang University, China
 - GPA: 79% (First Class Honours)  
 - Dean's list  
 
-**08/2025 – 06/2027**  
+**08/2025 – on**  
 **Master of Science in Communication Engineering**  
 Nanyang Technological University (NTU)  
