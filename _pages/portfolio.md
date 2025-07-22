@@ -5,7 +5,7 @@ permalink: /portfolio/
 author_profile: true
 ---
 # RFID Technology-Based Textile Production Process Defective Tracking and Quality Management System  
-**Supervisor:** Prof. Zhengguo Sheng  
+**Supervisor:** Prof. [Zhengguo Sheng](http://users.sussex.ac.uk/~zs70/index.html)
 
 - **Objective:**  
   Establish an efficient and accurate yarn information tracing system using RFID and IoT technologies.  
