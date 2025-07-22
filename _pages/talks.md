@@ -1,10 +1,9 @@
 ---
 layout: archive
 permalink: /talks/
-title: "Activities & Awards"
+title: ""
 author_profile: true
 ---
-
 # Internship
 ## AI Algorithm Intern | Big Data and AI Applications Department, Geely | 06/2025 – 08/2025  
 - Contributed to GeelyAI, supporting the intelligent and digital transformation of the automotive industry.
