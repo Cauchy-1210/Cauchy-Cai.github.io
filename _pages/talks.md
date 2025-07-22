@@ -6,7 +6,7 @@ redirect_from:
   - /talks/
 ---
 # Activities
-## AI Algorithm Intern | Big Data and AI Applications Department, Geely | 08/2024 – 02/2025  
+## AI Algorithm Intern | Big Data and AI Applications Department, Geely | 06/2025 – 08/2025  
 - Contributed to GeelyAI, supporting the intelligent and digital transformation of the automotive industry.
 -  Independently developed a speech recognition model for meeting-minutes scenarios, integrating speaker diarization, optimizing concurrency, and reducing CPU utilization by a significant margin; successfully deployed for company-wide internal use.
 -	Implemented an automated processing pipeline for foreign-language technical documents, enabling format conversion and line-by-line recognition with translation.
