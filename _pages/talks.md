@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /talks/
 ---
-
+# Activities
 ## AI Algorithm Intern | Big Data and AI Applications Department, Geely | 08/2024 – 02/2025  
 - Contributed to GeelyAI, supporting the intelligent and digital transformation of the automotive industry.
 -  Independently developed a speech recognition model for meeting-minutes scenarios, integrating speaker diarization, optimizing concurrency, and reducing CPU utilization by a significant margin; successfully deployed for company-wide internal use.
@@ -24,3 +24,11 @@ National University of Singapore (NUS), School of Continuing and Lifelong Educat
 ## Technician (Intern) | Hicorp Machinery (Qingdao) Co., Ltd | China | 01 / 2024 – 02 / 2024
 -	Maintains the Intelligent Stereo Warehouse storage system, which is an integral part of the company's intelligent warehousing solutions, including racking systems and conveyor systems.
 -	Regular inspections and preventive maintenance of key components of the automated storage and retrieval system, such as conveyor systems, AGV and barcode reading systems, ensure system reliability and uptime.
+======
+# Awards
+-	Dean’s Medal (Class of 2025), Zhejiang Gongshang University – Sussex Artificial Intelligence Institute
+-	Third Prize (Engineering Category), Zhejiang Provincial College Students’ Physics Innovation Competition, Dec 2023
+-	Third Prize (Engineering Category), Zhejiang Provincial College Students’ Advanced Mathematics Competition, Aug 2023
+-	Zhejiang Gongshang University Technology Innovation Award & Annual Scholarship, 2023
+-	Zhejiang Gongshang University Social Practice Award & Annual Scholarship, 2022
+
