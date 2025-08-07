@@ -26,8 +26,6 @@ author_profile: true
 
 # Awards
 -	Dean’s Medal (Class of 2025), Zhejiang Gongshang University – Sussex Artificial Intelligence Institute
--	Third Prize (Engineering Category), Zhejiang Provincial College Students’ Physics Innovation Competition, Dec 2023
--	Third Prize (Engineering Category), Zhejiang Provincial College Students’ Advanced Mathematics Competition, Aug 2023
 -	Zhejiang Gongshang University Technology Innovation Award & Annual Scholarship, 2023
 -	Zhejiang Gongshang University Social Practice Award & Annual Scholarship, 2022
 
